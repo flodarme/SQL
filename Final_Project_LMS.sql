@@ -284,7 +284,7 @@ CREATE DATABASE dbLMS   /*Create the LMS database*/
 	***************************************/
 
 	/**********************************************************************************************************************************
-	/*How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"? BranchID = 86815*/
+	*How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"? BranchID = 86815*
 	***********************************************************************************************************************************/
 	BEGIN
 
