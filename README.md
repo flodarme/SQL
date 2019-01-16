@@ -1,2 +1,2 @@
 # The-Tech-Academy-SQL-Coding-Projects
-Repository for main SQL projects
+Repository for library management system using mysql
